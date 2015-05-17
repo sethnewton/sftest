@@ -1,0 +1,28 @@
+{
+    "EmailManager.cls": {
+        "createdById": "0051a000000DefMAAS", 
+        "createdByName": "Seth Newton", 
+        "createdDate": "2015-05-09 23:53:25", 
+        "fileName": "unpackaged/classes/EmailManager.cls", 
+        "fullName": "EmailManager", 
+        "id": "01p1a000001MFoNAAW", 
+        "lastModifiedById": "0051a000000DefMAAS", 
+        "lastModifiedByName": "Seth Newton", 
+        "lastModifiedDate": "2015-05-17 09:52:26", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "StringArrayTest.cls": {
+        "createdById": "0051a000000DefMAAS", 
+        "createdByName": "Seth Newton", 
+        "createdDate": "2015-05-10 00:04:14", 
+        "fileName": "unpackaged/classes/StringArrayTest.cls", 
+        "fullName": "StringArrayTest", 
+        "id": "01p1a000001MFoSAAW", 
+        "lastModifiedById": "0051a000000DefMAAS", 
+        "lastModifiedByName": "Seth Newton", 
+        "lastModifiedDate": "2015-05-10 00:24:24", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}
